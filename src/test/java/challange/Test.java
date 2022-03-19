@@ -2,26 +2,26 @@ package challange;
 
 import java.util.List;
 
-import challange.dao.CategoriaDao;
-import challange.dao.JugadorDao;
-import challange.dao.PartidaDao;
-import challange.dao.PreguntaDao;
-import challange.dao.PremioDao;
-import challange.dao.RespuestaDao;
-import challange.dao.impl.CategoriaDaoImpl;
-import challange.dao.impl.JugadorDaoImpl;
-import challange.dao.impl.PartidaDaoImpl;
-import challange.dao.impl.PreguntaDaoImpl;
-import challange.dao.impl.PremioDaoImpl;
-import challange.dao.impl.RespuestaDaoImpl;
-import challange.domain.Categoria;
-import challange.domain.Jugador;
-import challange.domain.Nivel;
-import challange.domain.Partida;
-import challange.domain.Pregunta;
-import challange.domain.Premio;
-import challange.domain.Respuesta;
-import challange.exception.GenericException;
+import challenge.dao.CategoriaDao;
+import challenge.dao.JugadorDao;
+import challenge.dao.PartidaDao;
+import challenge.dao.PreguntaDao;
+import challenge.dao.PremioDao;
+import challenge.dao.RespuestaDao;
+import challenge.dao.impl.CategoriaDaoImpl;
+import challenge.dao.impl.JugadorDaoImpl;
+import challenge.dao.impl.PartidaDaoImpl;
+import challenge.dao.impl.PreguntaDaoImpl;
+import challenge.dao.impl.PremioDaoImpl;
+import challenge.dao.impl.RespuestaDaoImpl;
+import challenge.domain.Categoria;
+import challenge.domain.Jugador;
+import challenge.domain.Nivel;
+import challenge.domain.Partida;
+import challenge.domain.Pregunta;
+import challenge.domain.Premio;
+import challenge.domain.Respuesta;
+import challenge.exception.GenericException;
 
 public class Test {
 	
