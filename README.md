@@ -4,7 +4,7 @@
 
 ## INSTRUCCIONES
 * Para ejecutar aplicacion se debe clonar repositorio.
-* Ejecutar [Jugar.java](https://github.com/joeldavg/sofkaU-challenge/tree/main/src/main/java/challenge) que se encuentra en el paquete challenge.
+* Ejecutar [Jugar.java](https://github.com/joeldavg/sofkaU-challenge/blob/main/src/main/java/challenge/Jugar.java) que se encuentra en el paquete [challenge](https://github.com/joeldavg/sofkaU-challenge/tree/main/src/main/java/challenge).
 * Registrarse como jugador.
 * Base de datos se encuentra en Heroku, se compartiran credenciales si Heroku actualiza la applicacion para modificar archivo [ConexionDB.java](https://github.com/joeldavg/sofkaU-challenge/blob/main/src/main/java/challenge/dao/jdbc/ConexionDB.java).
 
